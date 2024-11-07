@@ -10,3 +10,6 @@
 ``` php
 $variable = "Hello, world!";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
